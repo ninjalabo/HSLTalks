@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "HSLTalks"
+  site-url: "https://ninjalabo.github.io/HSLTalks"
+  description: "Conversational HSL Journey Planner app"
+  repo-branch: main
+  repo-url: "https://github.com/ninjalabo/HSLTalks"
